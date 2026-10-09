@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "Omegafriends.aternos.me",
+    "port": 57136,
+    "version": "1.26.52",
     "try-creative": false
   },
   "position": {
