@@ -5,9 +5,9 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "Omegafriends.aternos.me",
-    "port": 57136,
+  "server":
+    "ip": "Virajwarrior010.aternos.me"
+    "port": 31365,
     "version": "1.26.52",
     "try-creative": false
   },
